@@ -7,7 +7,7 @@ if (!$email) {
 }
 
 // DB config
-$host = 'your-db.mysql.database.azure.com';
+$host = 'login-database.mysql.database.azure.com';
 $db = 'authapp';
 $user = 'dbadmin';
 $pass = 'Bristol@123';
